@@ -31,6 +31,9 @@ import Customers from "./components/Admin/Orders/Customers";
 import BrandsColorsList from "./components/Admin/Categories/BrandsColorsList";
 import AdminRoute from "./components/AuthRoute/AdminRoute";
 
+
+
+// This is our amin application component
 const App = () => {
   return (
     <BrowserRouter>
