@@ -33,7 +33,7 @@ import AdminRoute from "./components/AuthRoute/AdminRoute";
 
 
 
-// This is our amin application component
+// This is our main application component
 const App = () => {
   return (
     <BrowserRouter>
